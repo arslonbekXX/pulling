@@ -1,2 +1,2 @@
 
-var test1= 0
+var test= 0
