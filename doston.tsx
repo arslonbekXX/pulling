@@ -1,1 +1,1 @@
-const a = "arslonbek";
+const firstName = "Boburbek";
