@@ -1,2 +1,1 @@
-
-var test= 0
+const a = "arslonbek";
